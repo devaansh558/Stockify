@@ -6,4 +6,4 @@ keras
 matplotlib
 scikit-learn
 ta
-tensorflow
+# tensorflow  # Comment out for now and try again
