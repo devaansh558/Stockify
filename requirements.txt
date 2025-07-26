@@ -3,8 +3,9 @@ yfinance
 pandas
 numpy
 keras==2.14.0
+tensorflow==2.14.0
 matplotlib
 scikit-learn
 ta
-tensorflow==2.14.0
+
 
