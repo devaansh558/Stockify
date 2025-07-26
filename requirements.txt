@@ -2,8 +2,9 @@ streamlit
 yfinance
 pandas
 numpy
-keras
+keras==2.14.0  # Try this version
 matplotlib
 scikit-learn
 ta
-# tensorflow  # Comment out for now and try again
+tensorflow==2.14.0  # Adjust to a compatible version
+
